@@ -73,15 +73,6 @@ Creo firmemente en la orquestación inteligente de herramientas tecnológicas si
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samuel1390&show_icons=true&theme=tokyonight&count_private=true" alt="Samuel GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel1390&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 📬 Conectemos
 
 * 🌐 **Sitio Web Personal:** [samuel-nelo-portfolio.vercel.app](https://samuel-nelo-portfolio.vercel.app)

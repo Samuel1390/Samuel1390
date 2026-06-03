@@ -1,4 +1,4 @@
-# ¡Hola! Soy Samuel Nelo 👋
+# ¡Hola! Soy Samuel 👋
 
 ![programador](https://github.com/Samuel1390/Samuel1390/blob/main/public/programmer-dijital-art.png?raw=true)
 

@@ -19,9 +19,9 @@
 
 Soy un **Desarrollador Front-End** apasionado por crear experiencias digitales que fusionen una estética impecable con una ingeniería de rendimiento robusta. Combino mis estudios en la **Universidad de Carabobo** (con un sólido dominio de matemáticas avanzadas como Cálculo Diferencial e Integral) con un constante aprendizaje autodidacta.
 
-* 🌍 Basado en **Venezuela**.
+* 🌍 Pais **Venezuela**.
 * 🗣️ **Inglés Intermedio (B1/B2)**: Dominio fluido para lectura y escritura. El 97% de mi código está escrito en inglés para facilitar el trabajo en equipos globales.
-* ⚡ **Obsesionado con la Optimización y el 3D**: Implementé una habitación 3D optimizada usando **Three.js** reduciendo los tiempos de carga de 5.7s a menos de 2s gracias a la compresión con Draco y frameloops condicionales.
+* ⚡ **Dominio del framework **Next.js**: componentes de servidor, integracion de apis, características de optimización de rendimiento y route handlers/server functions.
 
 ---
 
@@ -92,9 +92,5 @@ Creo firmemente en la orquestación inteligente de herramientas tecnológicas si
 ### 📬 Conectemos
 
 * 🌐 **Sitio Web Personal:** [samuel-nelo-portfolio.vercel.app](https://samuel-nelo-portfolio.vercel.app)
-* ✉️ **¡Escríbeme!** Puedes contactarme a través de la sección de contacto de mi portafolio para colaboraciones o vacantes profesionales.
-
+* ✉️ **¡Escríbeme!** Puedes contactarme vía Whatsapp +58 4125053991 o a través mi correo: snelo1390@gmail.com.
 ---
-<p align="center">
-  <i>"Que la implementación funcione no es suficiente; debe ser segura, robusta, óptima y sobre todo útil para el usuario final."</i>
-</p>

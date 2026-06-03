@@ -1,8 +1,7 @@
 # ¡Hola! Soy Samuel Nelo 👋
 
-<p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&width=435&lines=Desarrollador+Front-End;Estudiante+de+Computación;Apasionado+por+el+Rendimiento+y+3D](https://github.com/Samuel1390/Samuel1390/blob/main/public/programmer-dijital-art.png?raw=true)" alt="programador" />
-</p>
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&width=435&lines=Desarrollador+Front-End;Estudiante+de+Computación;Apasionado+por+el+Rendimiento+y+3D](https://github.com/Samuel1390/Samuel1390/blob/main/public/programmer-dijital-art.png?raw=true)" alt="programador" width={820} height={400} />
+
 
 <p align="center">
   <a href="https://samuel-nelo-portfolio.vercel.app/" target="_blank">

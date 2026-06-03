@@ -61,11 +61,6 @@ Soy un **Desarrollador Front-End** apasionado por crear experiencias digitales q
 * **Tech Stack:** `Next.js`, `TypeScript`, `React`, `CSS3 Custom Animations`
 * ![Snow Animations Badge](https://img.shields.io/badge/Contributions-Abierto%20a%20PRs-orange?style=flat-square)
 
-#### 🎮 [Snow Games](https://github.com/Samuel1390/snow-games) | [Ver En Vivo](https://snow-games-hacs.vercel.app)
-> Plataforma de comercio electrónico (E-commerce) enfocada en la venta de videojuegos digitales para PlayStation, Xbox, Nintendo Switch y Steam.
-* **Tech Stack:** `React`, `Next.js`, `TypeScript`, `Tailwind CSS`
-* ![Snow Games Badge](https://img.shields.io/badge/Status-Completo-brightgreen?style=flat-square)
-
 ---
 
 ### 🧠 Filosofía de Desarrollo: El Enfoque IA + Humano
@@ -75,8 +70,8 @@ Creo firmemente en la orquestación inteligente de herramientas tecnológicas si
 | 🤖 El rol de la IA (Mi acelerador) | 👨‍💻 Mi rol como Programador (El filtro) |
 | :--- | :--- |
 | Escribe estructuras base de código rápido. | **Control de calidad:** Decido qué entra al proyecto basándome en robustez y seguridad. |
-| Automatiza y crea tests unitarios ágiles. | **Arquitectura y Escalabilidad:** Pienso en el crecimiento a largo plazo del código. |
-| Cubre tareas mecánicas y repetitivas. | **Innovación y Creatividad:** Sintonizo el equilibrio entre estética perfecta y rendimiento web fluido. |
+| Automatiza y crea tests unitarios ágiles. | **Lo que necesita el usuario final:** Busco siempre un equilibrio entre robustez y flexibilidad, entre estética y rendimiento. |
+| Recibe contexto y ejecuta acciones. | **Arquitectura y Escalabilidad**: Diseño la lógica del software a largo plazo y la orquestación de múltiples herramientas o modelos de inteligencia artificial. |
 
 ---
 
